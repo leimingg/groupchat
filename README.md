@@ -11,5 +11,5 @@ The application supports:
 5. save chat hisotry to hard drive
 
 GUI layout:
-
+![image](https://github.com/leimingg/groupchat/blob/master/GroupChat.JPG)
 
