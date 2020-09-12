@@ -1,6 +1,8 @@
 # groupchat
 Group/team chat application based on C++ 
 
+Developing Tool: Qt Creator 4.12.3
+
 A group chat application allows members communicate with each other. 
 
 The application supports:
